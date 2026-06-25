@@ -1,7 +1,7 @@
 
-## 🚀 Live Demo
-[**MariaLingua Translator**](https://mariabatool869-star.github.io/CodeAlpha_MariaLingua/)
+# MariaAIPro — AI Internship Assistant
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_MariaLingua-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://mariabatool869-star.github.io/CodeAlpha_AI_MariaLingua/)
 
 # 🌍 MariaLingua — Maria's Global Translator
 
